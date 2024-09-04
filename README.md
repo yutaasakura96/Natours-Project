@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-Check out the live version of **Natours** here: [Natours Live Demo](https://natoursproject-yasakura.netlify.app/)
+Check out the live version of **Natours** here: <a href="https://natoursproject-yasakura.netlify.app/" target="_blank">Natours Live Demo</a>
 
 ## 🎯 Project Overview
 
